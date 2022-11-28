@@ -10,9 +10,19 @@ What are the steps required to install your project? Provide a step-by-step desc
 
 ## Usage
 
-# The website uses alt text to be more accessible to end users. All links within the website have also been updated to navigate to the correct text when clicked on, for example, if you were to click on the 'seach engine optimization' tag at the top in the header, the website will naviagte you to the correct article explaining this in more depth. This was done by correctly updating all the ID's in the HTML file. The classes have also been updated to condence the code to make it more fluent, 
+# The website uses alt text to be more accessible to end users. All links within the website have also been updated to navigate to the correct text when clicked on, for example, if you were to click on the 'seach engine optimization' tag at the top in the header, the website will naviagte you to the correct article explaining this in more depth. This was done by correctly updating all the ID's in the HTML file. The classes have also been updated to condence the code to make it more fluent.
 
+![alt text][def]
+
+## Credits 
+
+# Here are the two online sources I have used to research how to compelete my project: 
+# Source 1: https://www.w3schools.com/html/html5_semantic_elements.asp 
+# Source 2: https://www.w3schools.com/tags/att_img_alt.asp
 
 ## License
 
 # This was done using an MIT Lincensee
+
+
+[def]: assets/images/image.png
