@@ -1,8 +1,8 @@
-* {
+* {  
     box-sizing: border-box;
     padding: 0;
     margin: 0;
-}
+} /* sets default border structure for all elements*/
 
 body {
     background-color: #d9dcd6;
@@ -11,10 +11,12 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
+/* all elements with an 'a' class specified in the HTML document are set to white*/
 
 p {
     font-size: 16px;
 }
+/* all elements with a 'p' class specified in the HTML documents are set to fon size 16 pixels*/
 
 header {
     padding: 20px;
@@ -22,11 +24,13 @@ header {
     background-color: #2a607c;
     color: #ffffff;
 }
+/*Header block created with a navy background and white font. Font is also specified*/
 
 header h1 {
     display: inline-block;
     font-size: 48px;
 }
+/* Position and size of header title specified*/ 
 
 header h1 .seo {
     color: #d9dcd6;
@@ -48,8 +52,7 @@ header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
-
-
+/* all div elements in the list now changed to nav on HTML and now specified in CSS code. Sizing, position and font style all specified*/
 
 .hero {
     height: 800px;
@@ -59,7 +62,7 @@ header nav ul li {
     background-size: cover;
     background-position: center;
 }
-
+/*image position and size specified using a hero class. Margin size also specified for image*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -106,7 +109,7 @@ header nav ul li {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* classes updated and are now all under 'benefit' class, as each class had the same colour, design and display, and therefore could be summed under one class*/
 
 
 .search {
@@ -127,7 +130,7 @@ header nav ul li {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/*all classes were changed to a 'search' class, as each induvidual class had the same colour, position, style and display*/
 
 .footer {
     padding: 30px;
@@ -135,6 +138,7 @@ header nav ul li {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
+/*footer boarder created and font of footer specified. Footer is to be positioned at the centre*/
 
 .footer h2 {
     font-size: 20px;
